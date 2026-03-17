@@ -1,4 +1,4 @@
-# ~\(OoO)/~
+# \(OoO)/
 
 ## Hello, World
 
