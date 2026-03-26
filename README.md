@@ -1,5 +1,7 @@
 # \(OoO)/
 
+**Currently Taking Harvard's CS50**
+
 ## Hello, World
 
 This is Christian! A **SaaS and Game Developer**, mainly focusing on backend architectures. I am **still a student**, finding my way and discovering new things on this journey. Of course, keeping up with the current trends and making use of what's available is absolutely important. With this, developing tools as a training ground has become a hobby of mine, it improves my talent and will help other people (whether they are users or fellow developers).
